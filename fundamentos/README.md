@@ -1,0 +1,3 @@
+# FUNDAMENTOS
+
+adicionando informações
