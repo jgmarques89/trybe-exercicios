@@ -1,0 +1,31 @@
+div:hover{
+    border: 3px solid red;
+}
+
+body div:nth-child(3){
+    background-color: brown;
+    color: aqua;
+}
+
+body div:nth-child(4){
+    background-color: cadetblue;
+    color: brown;
+}
+body div:nth-child(5){
+    background-color: coral;
+    color: chartreuse;
+    height: 50px;
+}
+body div:nth-child(6){
+    background-color: darkgoldenrod;
+    color: white;
+}
+body div:nth-child(7){
+    background-color:darkslateblue;
+    color: deeppink;
+}
+
+body div:nth-child(odd){
+    font-style: italic;
+}
+
