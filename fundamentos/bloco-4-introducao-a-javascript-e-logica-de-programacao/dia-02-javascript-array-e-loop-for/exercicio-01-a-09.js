@@ -13,7 +13,7 @@ let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 /* let num = 0;
 
 for(let i = 0; i < numbers.length; i += 1 ){
-   num += numbers[i]
+    num += numbers[i]
 }
 
 console.log(num); */
@@ -45,14 +45,38 @@ if (resultadoTotal > 20 ){
 // 5. Utilizando for, descubra qual o maior valor contido no array e imprima-o;
 
 
+// let num = number[0];
+// for(index = 0; index < numbers.length; index += 1){
+    //     if(numbers[index] > num){
+        //         num = numbers[index]
+        //     }
+        // } 
+        //     console.log(num);
+        
+        
+        // 6. Descubra quantos valores ímpares existem no array e imprima o resultado. Caso não exista nenhum, imprima a mensagem: "nenhum valor ímpar encontrado";
+        
 
-// 6. Descubra quantos valores ímpares existem no array e imprima o resultado. Caso não exista nenhum, imprima a mensagem: "nenhum valor ímpar encontrado";
+let numImpares = [''];
 
+for(let index=0; index < numbers.length; index += 1){
+    if(numbers[index] % 2 > 0 ){
+        numImpares += `${numbers[index]},`
+    }
+}
+console.log(numImpares)
 
 
 // 7. Utilizando for, descubra qual o menor valor contido no array e imprima-o;
 
 
+// let num = numbers[9];
+// for(index = 0; index < numbers.length; index += 1){
+//     if(numbers[index] < num){
+//         num = numbers[index]
+//     }
+// } 
+//     console.log(num);
 
 // 8. Utilizando for, crie um array que vá de 1 até 25 e imprima o resultado;
 
