@@ -55,13 +55,67 @@
 
         // 2. Crie uma função que mude a cor do quadrado amarelo para o verde da Trybe (rgb(76,164,109)).
 
+        let corTrybe = document.getElementsByClassName('main-content')[0]
+            function laterais(name){
+               
+               name.style.backgroundColor = 'green'
 
-        
+               return name 
+            }
+
+            laterais(corTrybe)
+
         // 3. Crie uma função que mude a cor do quadrado vermelho para branco.
+
+        let corWhite = document.getElementsByClassName('center-content')[0]
+            function quadrado(name){
+
+                name.style.backgroundColor = 'white'
+
+                // return name
+            }
+
+                quadrado(corWhite)
+
         // 4. Crie uma função que corrija o texto da tag <h1>.
+          
+           let h1 = document.getElementsByTagName('h1')[0]
+            function text(name,text){
+
+                name.innerText = text
+
+                // return name
+
+            }
+
+            text(h1,'Exercício 5.1 - JavaScript')
+
+          
         // 5. Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
+
+            function pAll(name){
+                let p = document.getElementsByTagName('p')
+
+                for(i=0; i < p.length; i+=1){
+                    p[i].style.textTransform = 'uppercase'
+                }
+
+                return name
+
+            }
+
+            pAll()
+
         // 6. Crie uma função que exiba o conteúdo de todas as tags <p> no console.
+          let paragraphs = document.getElementsByTagName('p')
+          function log() {
+            for (p of paragraphs) {
+         console.log(p.innerText);
+         }
+         }
         
+    log();
+
     </script>
   </body>
 </html>
