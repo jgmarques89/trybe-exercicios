@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>TrybeTrip</title>
+</head>
+
+<body>
+
+    <form action="" method="get">
+
+        <div>
+            <label for="campo-texto">Nome:
+                <input type="text" name="nome" id="campo-texto" minlength="10" maxlength="40">
+            </label>
+        </div>
+        
+        <div>
+            <label for="campo-email">Email:
+                <input type="email" name="email" id="campo-email" minlength="10" maxlength="50">
+            </label>
+        </div>
+
+        <div>
+            <label for="op1">
+                <input type="radio" name="op1" id="op1"> Opção 1   
+            </label>
+            <label for="op2">
+                <input type="radio" name="op1" id="op2"> Opção 2
+            </label>
+            <label for="op3">
+                <input type="radio" name="op1" id="op3"> Opção 3
+            </label>
+            <label for="">
+                <input type="radio" name="op1" id="op4"> Opção 4
+            </label>
+        </div>
+
+        <div>
+
+            <p>Espaço para digitar a resposta:</p>
+            
+            <textarea name="resposta" id="resposta" cols="40" rows="10" maxlength="500"></textarea>
+        </div>
+
+        <div>
+
+            <label for="data">
+                <input type="date" name="data" id="data">
+            </label>
+        
+        </div>
+
+        <div>
+
+            <label for="con1">Concordo 1
+                <input type="checkbox" name="con" id="con1">
+            </label>
+            <br>
+            <label for="con2">Concordo 2
+                <input type="checkbox" name="con" id="con2">
+            </div>
+
+        </label>
+    
+        <button type="submit">Enviar</button>
+        <button type="reset">Apagar</button>
+    
+    </form>
+
+</body>
+<script src="script.js"></script>
+</html>
