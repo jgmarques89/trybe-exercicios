@@ -18,13 +18,13 @@
   .logo-container {
     display: flex;
     justify-content: center;
-    
+    order: 1;
     
   }
   
   .menu-container {
     display: flex;
-    ;
+    order: 2;
   }
   
   .menu-container ul {
