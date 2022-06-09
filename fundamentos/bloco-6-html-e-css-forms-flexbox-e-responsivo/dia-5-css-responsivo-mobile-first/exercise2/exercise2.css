@@ -42,9 +42,13 @@ nav {
 
 nav ul li {
   display: inline-block;
-  color: white;
+  color: pink;
   font-size: 14px;
   margin: 15px;
+}
+
+nav ul li:hover {
+  color: white;
 }
 
 img {
@@ -97,4 +101,33 @@ footer {
 
 h3 {
   text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+
+  .textAlice {
+    font-size: 24px;
+    width: 350px;
+  }
+
+  nav ul li {
+    font-size: 24px;
+  }
+
+  aside-one h2,
+  .aside-two h2,
+  .main-content h1 {
+    font-size: 32px;
+  }
+
+  .aside-one ul li,
+  .aside-two ul li {
+    font-size: 20px;
+
+  }
+
+  .main-content p {
+    font-size: 20px;
+    width: 90%;
+  }
 }
