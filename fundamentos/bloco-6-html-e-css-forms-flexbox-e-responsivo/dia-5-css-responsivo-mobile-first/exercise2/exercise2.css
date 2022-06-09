@@ -131,3 +131,37 @@ h3 {
     width: 90%;
   }
 }
+
+@media screen and (min-width: 1024px) {
+
+  .textAlice {
+    font-size: 28px;
+    width: 500px;
+  }
+
+  nav ul li {
+    font-size: 26px;
+  }
+
+  .aside-one h2,
+  .aside-two h2,
+  .main-content h1 {
+    font-size: 40px;
+  }
+
+  .aside-one ul li,
+  .aside-two ul li {
+    font-size: 26px;
+
+  }
+
+  .main-content p {
+    font-size: 26px;
+    width: 90%;
+  }
+
+footer h3 , p{
+  font-size: 22px;
+}
+
+}
