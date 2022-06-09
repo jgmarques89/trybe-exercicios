@@ -15,6 +15,7 @@ html {
 body {
   margin: 20px;
   text-align: center;
+  background-color: blanchedalmond;
 }
 
 article p {
@@ -47,11 +48,6 @@ figcaption {
 
 @media screen and (min-width: 768px) {
 
-  body {
-    background-color: blanchedalmond;
-
-  }
-
   article p {
     font-size: 24px;
   }
@@ -60,13 +56,29 @@ figcaption {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+
   }
 
   figure {
-    width: 300px;
+    width: 320px;
     margin: auto;
   }
 
-  img {}
-
 }
+
+@media screen and (min-width: 1320px) {
+
+  figure {
+    width: 380px;
+    margin: auto;
+  }
+
+body{
+  background-color: antiquewhite;
+}
+
+h2{
+  font-size: 32px;
+}
+
+} 
