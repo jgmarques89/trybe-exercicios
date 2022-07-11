@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositÃ³rio contÃ©m todas as atividades de aprendizagem desenvolvidas por _[Guilherme Marques](https://www.linkedin.com/in/jgmarques89/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositorio contém todas as atividades de aprendizagem desenvolvidas por _[Guilherme Marques](https://www.linkedin.com/in/jgmarques89/)_ enquanto estudo na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -23,66 +23,66 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda I
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-4: _HTML Semántico_
-- [ ] 3-5: _[Projeto - HTML & CSS]()_
+- [x] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [x] 3-4: _HTML Semántico_
+- [x] 3-5: _[Projeto - HTML & CSS]()_
 
 ##### Bloco 4: Introdução - JavaScript
 
-- [ ] 4-1: _JavaScript - Primeiros passos_
-- [ ] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funÃ§Ãµes_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-1: _JavaScript - Primeiros passos_
+- [x] 4-2: _JavaScript - Array e loop For_
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [x] 4-4: _JavaScript - Objetos e funções_
+- [x] 4-5: _[Projeto - Playground Functions]()_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ ] 5-1: _JavaScript - DOM e seletores_
-- [ ] 5-2: _JavaScript - Trabalhando com elementos_
-- [ ] 5-3: _JavaScript - Eventos_
-- [ ] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
-- [ ] 5-6: _[Projeto - Arte com Pixels]()_
-- [ ] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-1: _JavaScript - DOM e seletores_
+- [x] 5-2: _JavaScript - Trabalhando com elementos_
+- [x] 5-3: _JavaScript - Eventos_
+- [x] 5-4: _JavaScript - Web Storage_
+- [x] 5-5: _[Projeto - Meme Generator]()_
+- [x] 5-6: _[Projeto - Arte com Pixels]()_
+- [x] 5-7: _[Projeto - Lista de tarefas]()_
+- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [x] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avanÃ§ado
+##### Bloco 6: HTML & CSS avançado
 
-- [ ] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
+- [x] 6-1: _HTML & CSS - Forms_
+- [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 6-3: _CSS Flexbox - Part 1_
+- [x] 6-4: _CSS Flexbox - Part 2_
+- [x] 6-5: _CSS Responsivo - Mobile First_
+- [x] 6-6: _[Projeto - PÃ¡gina inicial do Facebook]()_
 
-##### Bloco 7: JavaScript ES6 & Testes UnitÃ¡rios
+##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes UnitÃ¡rios]()_
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7-2: _JavaScript ES6 - Objects_
+- [x] 7-3: _Testes unitários em JavaScript_
+- [x] 7-4: _[Projeto - JavaScript Testes UnitÃ¡rios]()_
 
 ##### Bloco 8: JavaScript ES6
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
+- [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [x] 8-5: _[Projeto - Zoo functions]()_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [x] 9-1: _JavaScript Assíncrono e Callbacks_
+- [x] 9-2: _JavaScript Promises_
+- [x] 9-3: _[Projeto - Carrinho de Compras]()_
 
 ##### Bloco 10: Jest
 
 - [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes AssÃíncronos_
+- [ ] 10-2: _Jest - Testes Assíncronos_
 - [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _[Projeto - Jest AssÃ­ncrono e Mocking]()_
+- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -164,7 +164,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda I
 - [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
 - [ ] 22-3: _[Projeto - One For All]()_
 
-##### Bloco 23: IntroduÃ§Ã£o - NoSQL
+##### Bloco 23: Introdução - NoSQL
 
 - [ ] 23-1: _MongoDB - Introdução_
 - [ ] 23-2: _Filter Operators_
@@ -185,7 +185,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda I
 
 ##### Bloco 26: Intro - NodeJS
 
-- [ ] 26-1: _NodeJS - Introduçãoo_
+- [ ] 26-1: _NodeJS - Introdução_
 - [ ] 26-2: _NodeJS - Fluxo Assíncrono_
 - [ ] 26-3: _NodeJS - Arquitetura_
 - [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
@@ -220,7 +220,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda I
 
 ##### Bloco 32: Arquitetura de Software
 
-- [ ] 32-1: _Arquitetura - PrincÃ­pios SOLID_
+- [ ] 32-1: _Arquitetura - Princípios SOLID_
 - [ ] 32-2: _ORM - Interface da aplicão com o banco de dados_
 - [ ] 32-3: _Arquitetura de Software - DDD_
 - [ ] 32-4: _Boas práticas na escrita de testes_
@@ -236,9 +236,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda I
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-## CiÃªncia da Computação :hourglass_flowing_sand:
+## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 35: Introdução - CiÃªncia da Computação
+##### Bloco 35: Introdução - Ciência da Computação
 
 - [ ] 35-1: _Arquitetura de Computadores_
 - [ ] 35-2: _Arquitetura de redes_
@@ -249,8 +249,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda I
 
 - [ ] 35-1: _Aprendendo Python_
 - [ ] 35-2: _Testes e Excerções_
-- [ ] 35-3: _Entrada e SaÃ­da de dados_
-- [ ] 36-4: _Entrada e SaÃ­da de dados_
+- [ ] 35-3: _Entrada e Saída de dados_
+- [ ] 36-4: _Entrada e Saída de dados_
 - [ ] 35-5: _[Projeto - Tech news]()_
 
 # [...]
